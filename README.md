@@ -1,4 +1,5 @@
 # techGyan - Technical Problem Solutions
+Deployed Link : https://react-one-ashy.vercel.app/
 
 Welcome to techGyan, your go-to platform for finding solutions to various technical problems. Whether you're a beginner or an experienced developer, our platform aims to provide comprehensive and easy-to-follow solutions to a wide range of technical challenges.
 
